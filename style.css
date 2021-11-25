@@ -58,7 +58,11 @@ img#imginsta {
   width: 100px;
 }
 section.Ressources{
-  display: grid;
-  grid-template-columns: 100px 100px;
-  grid-gap: 20px;
+  display: flex;
+  text-align: center;
+  justify-content: center;
+}
+section.Ressources > p{
+  margin-left: 5%;
+  margin-right: 5%;
 }
