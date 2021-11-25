@@ -10,7 +10,6 @@ h1 {
     text-align: center;
   }
   body {
-    width: 600px;
     margin: 0 auto;
     background-color: #a1bdbd;
     padding: 0 20px 20px 20px;
@@ -42,8 +41,24 @@ h1 {
     width: 300px;
   }
 p.couplet{
-    color: red;
+  color: #000000;
+  font-style: italic;
 }
 h4.cacher{
 display: none;
+}
+img#imgwiki {
+  display: block;
+  margin: 0 auto;
+  width: 100px;
+}
+img#imginsta {
+  display: block;
+  margin: 0 auto;
+  width: 100px;
+}
+section.Ressources{
+  display: grid;
+  grid-template-columns: 100px 100px;
+  grid-gap: 20px;
 }
