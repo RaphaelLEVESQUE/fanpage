@@ -9,6 +9,11 @@ h1 {
     color: #000000;
     text-align: center;
   }
+  h3 {
+  
+    color: #000000;
+    text-align: center;
+  }
   body {
     margin: 0 auto;
     background-color: #a1bdbd;
@@ -65,4 +70,35 @@ section.Ressources{
 section.Ressources > p{
   margin-left: 5%;
   margin-right: 5%;
+}
+section.musiques{
+  display: flex;
+  text-align: center;
+  justify-content: center; 
+}
+
+img#imgumbrella {
+  display: block;
+  margin: 0 auto;
+  width: 200px;
+ 
+  
+}
+img#imgdiamonds {
+  display: block;
+  margin: 0 auto;
+  width: 200px;
+ 
+}
+img#imglove {
+  display: block;
+  margin: 0 auto;
+  width: 200px;
+ 
+}
+img#imgsandm {
+  display: block;
+  margin: 0 auto;
+  width: 200px;
+ 
 }
