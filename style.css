@@ -1,3 +1,49 @@
-h1{
-    color: red;
+h1 {
+    margin: 0 ;
+    padding: 20px 0;
+    color: #000000;
+    text-align: center
   }
+  h2 {
+    text-decoration: underline;
+    color: #000000;
+    text-align: center;
+  }
+  body {
+    width: 600px;
+    margin: 0 auto;
+    background-color: #a1bdbd;
+    padding: 0 20px 20px 20px;
+    border: 5px solid rgb(0, 0, 0);
+  }
+  img#imageprincipale {
+    display: block;
+    margin: 0 auto;
+    width: 500px;
+  }
+  img#imageumbrella {
+    display: block;
+    margin: 0 auto;
+    width: 300px;
+  }
+  img#imagediamonds {
+    display: block;
+    margin: 0 auto;
+    width: 200px;
+  }
+  img#imagelove {
+    display: block;
+    margin: 0 auto;
+    width: 300px;
+  }
+  img#sandm {
+    display: block;
+    margin: 0 auto;
+    width: 300px;
+  }
+p.couplet{
+    color: red;
+}
+h4.cacher{
+display: none;
+}
