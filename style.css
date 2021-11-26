@@ -116,4 +116,5 @@ body {
   height: 100%;
   position: absolute;
   background: linear-gradient(to bottom, #6e529d 0%,#d97b93 100%);
+  background-attachment:fixed
 }
