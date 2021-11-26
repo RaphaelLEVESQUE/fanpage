@@ -23,7 +23,16 @@ h1 {
   img#imageprincipale {
     display: block;
     margin: 0 auto;
-    width: 500px;
+    width: 100%;
+    min-width: 150px;
+    max-width: 500px;
+  }
+  img#gifstar {
+    display: block;
+    margin: 0 auto;
+    width: 100%;
+    min-width: 100px;
+    max-width: 250px;
   }
   img#imageumbrella {
     display: block;
@@ -78,7 +87,6 @@ section.musiques{
 }
 section.imgprincipales{
   display: flex;
-  text-align: center;
   justify-content: center; 
 }
 section.imgprincipales > p{
