@@ -32,7 +32,7 @@ h1 {
     min-width: 150px;
     max-width: 500px;
   }
-  img#gifstar {
+  img.gifstar {
     display: block;
     margin: 0 auto;
     width: 100%;
@@ -154,11 +154,6 @@ body {
 }
 iframe{
   display: block;
+    margin: 0 auto;
+}
 
-}
-#all{
-  display: none;
-}
- iframe {
-  margin: 0 auto;
-}
