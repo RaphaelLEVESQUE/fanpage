@@ -156,4 +156,6 @@ iframe{
   display: block;
     margin: 0 auto;
 }
-
+section.Mentions{
+  text-align: center;
+}
