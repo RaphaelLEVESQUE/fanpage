@@ -97,26 +97,34 @@ section.imgprincipales > p{
 img#imgumbrella {
   display: block;
   margin: 0 auto;
-  width: 200px;
+  width: 100%;
+  min-width: 100px;
+  max-width: 200px;
  
   
 }
 img#imgdiamonds {
   display: block;
   margin: 0 auto;
-  width: 200px;
+  width: 100%;
+  min-width: 100px;
+  max-width: 200px;
  
 }
 img#imglove {
   display: block;
   margin: 0 auto;
-  width: 200px;
+  width: 100%;
+  min-width: 100px;
+  max-width: 200px;
  
 }
 img#imgsandm {
   display: block;
   margin: 0 auto;
-  width: 200px;
+  width: 100%;
+  min-width: 100px;
+  max-width: 200px;
  
 }
 img#imghome {
