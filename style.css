@@ -157,11 +157,8 @@ iframe{
 
 }
 #all{
-  width:100%;
-  float:left;
-  text-align:center;
+  display: none;
 }
-div.sub, iframe {
+ iframe {
   margin: 0 auto;
-  background-color: rgb(0, 0, 0);
 }
