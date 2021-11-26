@@ -76,6 +76,15 @@ section.musiques{
   text-align: center;
   justify-content: center; 
 }
+section.imgprincipales{
+  display: flex;
+  text-align: center;
+  justify-content: center; 
+}
+section.imgprincipales > p{
+  margin-left: 5%;
+  margin-right: 5%;
+}
 
 img#imgumbrella {
   display: block;
