@@ -9,6 +9,11 @@ h1 {
     color: #000000;
     text-align: center;
   }
+  h2.articles{
+    text-decoration: underline;
+    color: #000000;
+    text-align: left;
+  }
   h3 {
   
     color: #000000;
